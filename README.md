@@ -6,7 +6,7 @@ Na compra de mais de um produto 10% de desconto no valor total
 
 ![Image](https://user-images.githubusercontent.com/115032709/193890659-3249e66f-e5a6-4f44-9921-7cedd86fe423.png)
 
-
+R$ 1.655,00 Em até 10x R$ 165,50 sem juros
 
 
 
